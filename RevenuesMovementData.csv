@@ -1,0 +1,156 @@
+Ticker,Company Name,Sector
+DAL,"Delta Air Lines, Inc.",Airlines
+UAL,United Airlines Holdings Inc,Airlines
+BA,Boeing Co,Airlines
+LUV,Southwest Airlines Co,Airlines
+AAL,American Airlines Group Inc,Airlines
+ALK,"Alaska Air Group, Inc.",Airlines
+JBLU,JetBlue Airways Corporation,Airlines
+SAVE,Spirit Airlines Incorporated,Airlines
+TSLA,Tesla Inc,Automobiles
+GM,General Motors Company,Automobiles
+F,Ford Motor Company,Automobiles
+PG,Procter & Gamble Co,Consumer Staples
+K,Kellogg Company,Consumer Staples
+CL,Colgate-Palmolive Company,Consumer Staples
+CLX,Clorox Co,Consumer Staples
+GIS,"General Mills, Inc.",Consumer Staples
+LMT,Lockheed Martin Corporation,Defense 
+RTX,Raytheon Technologies Corp,Defense 
+GD,General Dynamics Corporation,Defense 
+NOC,Northrop Grumman Corporation,Defense 
+LHX,L3Harris Technologies Inc,Defense 
+NEE,NextEra Energy Inc,Energy
+DVN,Devon Energy Corp,Energy
+FSLR,"First Solar, Inc.",Energy
+TERP,TerraForm Power Inc,Energy
+VSLR,Vivint Solar Inc,Energy
+SEDG,Solaredge Technologies Inc,Energy
+DUK,Duke Energy Corp,Energy
+JPM,JPMorgan Chase & Co.,Financials
+WFC,Wells Fargo & Co,Financials
+C,Citigroup Inc,Financials
+GS,Goldman Sachs Group Inc,Financials
+PNC,PNC Financial Services Group Inc,Financials
+BK,Bank of New York Mellon Corp,Financials
+BAC,Bank of America Corp,Financials
+MS,Morgan Stanley,Financials
+COF,Capital One Financial Corp.,Financials
+DFS,Discover Financial Services,Financials
+AXP,American Express Company,Financials
+V,Visa Inc,Financials
+PYPL,Paypal Holdings Inc,Financials
+MA,Mastercard Inc,Financials
+PEP,"PepsiCo, Inc.",Food & Beverage
+DPZ,"Domino's Pizza, Inc.",Food & Beverage
+YUM,"Yum! Brands, Inc.",Food & Beverage
+KO,Coca-Cola Co,Food & Beverage
+CMG,"Chipotle Mexican Grill, Inc.",Food & Beverage
+SBUX,Starbucks Corporation,Food & Beverage
+BJRI,"BJ's Restaurants, Inc.",Food & Beverage
+MCD,Mcdonald's Corp,Food & Beverage
+WING,Wingstop Inc,Food & Beverage
+SHAK,Shake Shack Inc,Food & Beverage
+BUD,Anheuser Busch Inbev NV,Food & Beverage
+CAKE,Cheesecake Factory Inc,Food & Beverage
+TSN,"Tyson Foods, Inc.",Food & Beverage
+BYND,Beyond Meat Inc,Food & Beverage
+MDLZ,MONDELEZ INTERNATIONAL INC Common Stock,Food & Beverage
+WEN,Wendys Co,Food & Beverage
+PZZA,"Papa John's Int'l, Inc.",Food & Beverage
+UNH,UnitedHealth Group Inc,Health Care
+JNJ,Johnson & Johnson,Health Care
+PFE,Pfizer Inc.,Health Care
+ANTM,Anthem Inc,Health Care
+GILD,"Gilead Sciences, Inc.",Health Care
+REGN,Regeneron Pharmaceuticals Inc,Health Care
+CVS,CVS Health Corp,Health Care
+MRNA,Moderna Inc,Health Care
+CVS,CVS Health Corp,Health Care
+ABC,AmerisourceBergen Corp.,Health Care
+CHGG,Chegg Inc,Miscelaneous
+XOM,Exxon Mobil Corporation,Oil
+CVX,Chevron Corporation,Oil
+OXY,Occidental Petroleum Corporation,Oil
+COP,ConocoPhillips,Oil
+PSX,Phillips 66,Oil
+MPC,Marathon Petroleum Corp,Oil
+HES,Hess Corp.,Oil
+ZG,Zillow Group Inc Class A,Real Estate
+BRK.B,Berkshire Hathaway Inc. Class B,Real Estate
+AMZN,"Amazon.com, Inc.",Retail
+UPS,"United Parcel Service, Inc.",Retail
+SHOP,Shopify Inc,Retail
+SQ,Square Inc,Retail
+W,Wayfair Inc,Retail
+ETSY,Etsy Inc,Retail
+TGT,Target Corporation,Retail
+KSS,Kohl's Corporation,Retail
+WMT,Walmart Inc,Retail
+HD,Home Depot Inc,Retail
+GPS,Gap Inc,Retail
+COST,Costco Wholesale Corporation,Retail
+LULU,Lululemon Athletica Inc,Retail
+BBY,Best Buy Co Inc,Retail
+JCP,J C Penney Company Inc,Retail
+TJX,TJX Companies Inc,Retail
+LOW,Lowe`s Companies Inc,Retail
+DLTR,"Dollar Tree, Inc.",Retail
+TWTR,Twitter Inc,Social Media
+SNAP,Snap Inc,Social Media
+MTCH,IAC/Interactivecorp,Social Media
+PINS,Pinterest Inc,Social Media
+INTC,Intel Corporation,Technology
+QCOM,"QUALCOMM, Inc.",Technology
+SWKS,Skyworks Solutions Inc,Technology
+MU,"Micron Technology, Inc.",Technology
+AMD,"Advanced Micro Devices, Inc.",Technology
+AVGO,Broadcom Inc,Technology
+TEAM,Atlassian Corporation PLC,Technology
+MSFT,Microsoft Corporation,Technology
+GOOGL,Alphabet Inc Class A,Technology
+FB,"Facebook, Inc. Common Stock",Technology
+SPOT,Spotify Technology SA,Technology
+AAPL,Apple Inc.,Technology
+BAH,Booz Allen Hamilton Holding Corporation,Technology
+SIRI,Sirius XM Holdings Inc,Technology
+QRVO,Qorvo Inc,Technology
+CSCO,"Cisco Systems, Inc.",Technology
+ZM,Zoom Video Communications Inc,Technology
+CRM,"salesforce.com, inc.",Technology
+ADBE,Adobe Inc,Technology
+UBER,Uber Technologies Inc,Technology
+WORK,Slack Technologies Inc,Technology
+DBX,Dropbox Inc,Technology
+DOCU,Docusign Inc,Technology
+NVDA,NVIDIA Corporation,Technology
+SPLK,Splunk Inc,Technology
+LYFT,LYFT Inc,Technology
+T,AT&T Inc.,Telecom Services
+TMUS,T-Mobile Us Inc,Telecom Services
+VZ,Verizon Communications Inc.,Telecom Services
+NFLX,Netflix Inc,Television
+DISH,DISH Network Corp,Television
+CMCSA,Comcast Corporation,Television
+CHTR,Charter Communications Inc,Television
+DIS,Walt Disney Co,Television
+ROKU,Roku Inc,Television
+VIAC,CBS Corporation Common Stock,Television
+HLT,Hilton Hotels Corporation Common Stock,Travel
+LVS,Las Vegas Sands Corp.,Travel
+TRVG,Trivago NV - ADR,Travel
+EXPE,Expedia Group Inc,Travel
+RCL,Royal Caribbean Cruises Ltd,Travel
+MGM,MGM Resorts International,Travel
+CZR,Caesars Entertainment Corporation Common Stock,Travel
+MAR,Marriott International Inc,Travel
+BKNG,Booking Holdings Inc,Travel
+H,Hyatt Hotels Corporation,Travel
+NCLH,Norwegian Cruise Line Holdings Ltd,Travel
+CCL,Carnival Corp,Travel
+DKNG,Draftkings Inc,Travel
+ERI,Eldorado Resorts Inc,Travel
+EA,Electronic Arts Inc.,Video Games
+TTWO,"TAKE-TWO INTERACTIVE SOFTWARE, INC Common Stock",Video Games
+ATVI,"Activision Blizzard, Inc.",Video Games
+TCEHY,TENCENT HOLDING/ADR,Video Games
